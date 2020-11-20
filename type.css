@@ -1,0 +1,55 @@
+body
+{
+    text-align: center;
+}
+
+table
+{
+    margin: auto;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table th, table td
+{
+    font-size: 1.1em;
+    border:1px solid #000000;
+    padding:3px 7px 2px 7px;
+}
+
+table th
+{
+    font-size: 1.1em;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #ffffff;
+}
+
+table td
+{
+    vertical-align: top;
+}
+
+.red
+{
+    color: red;
+}
+
+.center
+{
+    text-align: center;
+}
+
+caption
+{
+    caption-side: top;
+    color: #000000;
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+
+strong
+{
+    color: green;
+}
